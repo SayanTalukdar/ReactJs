@@ -1,0 +1,17 @@
+.main-container{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(253, 104, 50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-sub-conatiner{
+    width: 89%;
+    height: 80vh;
+    background-color: rgb(252, 185, 62);
+    border-radius: 20px;
+    border: 2px dashed yellow ;
+}

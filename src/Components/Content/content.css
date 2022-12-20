@@ -1,0 +1,12 @@
+.content-container {
+	/* box-sizing: border-box; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem 1.25rem;
+  text-align: start;
+  line-height: 1.75rem;
+	overflow: auto;
+}

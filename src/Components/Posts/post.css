@@ -1,0 +1,23 @@
+.posts-container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 1.875rem;
+}
+
+.post{
+    width: 80%;
+ }
+
+.posts{
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    margin-bottom: 0.3125rem;
+    background-color: #fff;
+    border: 2px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-align: start;
+}
